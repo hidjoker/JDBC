@@ -1,11 +1,9 @@
-package ojdbc;
+package ojdbc_Teacher;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-
-import dbutil.DBConn;
 
 public class OjdbcEx_03 {
 	public static void main(String[] args) {

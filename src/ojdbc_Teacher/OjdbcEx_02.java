@@ -1,4 +1,4 @@
-package ojdbc;
+package ojdbc_Teacher;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
