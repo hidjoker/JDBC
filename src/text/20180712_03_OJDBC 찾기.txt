@@ -1,0 +1,22 @@
+
+ + OJDBC 라이브러리 찾기
+
+  1. 오라클 서버가 설치된 폴더에서 찾기
+	C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib
+
+	ojdbc6.jar 이용한다
+
+
+  2. www.oracle.com 에서 찾기
+	Menu
+	 - Products
+	 - Database
+	 - Application Development 클릭
+
+	하단에서 Java 찾아서 클릭
+
+	JDBC Download 클릭
+
+	Oracle Database 11g Release 2 (11.2.0.4) drivers 클릭
+
+	ojdbc6.jar 다운
