@@ -1,4 +1,4 @@
-package dto;
+package dto_Teacher;
 
 public class User {
 	private int idx;

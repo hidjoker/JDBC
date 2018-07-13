@@ -1,9 +1,9 @@
-package exam;
+package exam_Teacher;
 
 import java.util.List;
 
-import dao.UserDao;
-import dao.UserDaoImpl;
+import dao_Teacher.UserDao;
+import dao_Teacher.UserDaoImpl;
 import dto.User;
 
 public class UserEx {

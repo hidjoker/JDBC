@@ -1,4 +1,4 @@
-package dto;
+package dto_Teacher;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package dao;
+package dao_Teacher;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import dbutil.DBConn;
-import dto.User;
+import dto_Teacher.User;
 
 public class UserDaoImpl implements UserDao {
 
@@ -54,7 +54,7 @@ public class UserDaoImpl implements UserDao {
 	}
 
 	@Override
-	public User selectByIdx(int idx) {
+	public Use selectByIdx(int idx) {
 		String sql = "SELECT * FROM userTb"
 				+ " WHERE idx=?"
 				+ " ORDER BY idx";
